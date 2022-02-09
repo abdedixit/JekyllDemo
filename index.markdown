@@ -4,3 +4,4 @@
 
 layout: home
 ---
+It's a beautiful, sunny day outside.

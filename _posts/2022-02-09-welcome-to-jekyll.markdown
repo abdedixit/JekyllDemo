@@ -2,9 +2,12 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2022-02-09 00:50:48 +0000
-categories: jekyll update
+categories: jekyll learning
+permalink: /welcome/
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I  am learning Jekyll and all its awesome features.
+
+[This](https://github.com/abdedixit/JekyllDemo) is an example of how to hyperlink using Jekyll.
 
 Jekyll requires blog post files to be named according to the following format:
 
